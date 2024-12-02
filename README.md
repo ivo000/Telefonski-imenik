@@ -73,7 +73,7 @@ The **Telephone Directory** is a desktop application developed in Python that al
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/telephone-directory.git
+   git clone https://github.com/ivo000/Telefonski-imenik.git
 Or download the ZIP file and extract it.
 
 Navigate to the Project Directory:
