@@ -1,21 +1,7 @@
-hank you for using the Telephone Directory! I hope it will be useful in your daily work.
-
-
-You can copy this content into a file named `README.md` in your project's root directory.
-
-
-
-
-Rekli ste:
-Mozes li kreirati kompletan read me md file za taj program na engleskom jeziku za github
-
-Thought za 10 s
-Sure! Below is a comprehensive README.md file for your program, written in English and formatted for GitHub. You can copy this content into a file named README.md in your project's root directory.
-
 # Telephone Directory 📞
 
 **Version:** 1.0  
-**Author:** Your Name
+**Author:** Ivan Nenadic
 
 ## Table of Contents
 
@@ -212,8 +198,8 @@ This project is licensed under the MIT License.
 Contact
 If you have any questions, suggestions, or need assistance, feel free to reach out:
 
-Email: your.email@example.com
-GitHub: your-username
+Email: ivanonenadicl@gmail.com
+GitHub: ivo000
 Thank you for using the Telephone Directory! Your feedback is highly appreciated.
 
 
